@@ -1,6 +1,6 @@
 from preprocess_kamalkumar_nitj import utils
 
-__version__ = '0.10.3'
+__version__ = '0.10.4'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
